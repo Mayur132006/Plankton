@@ -1,5 +1,5 @@
 # Plankton
-Verified plant sacnner
+Smart plant sacnner
 
 <html lang="en">
 <head>
